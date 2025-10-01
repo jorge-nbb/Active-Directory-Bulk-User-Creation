@@ -152,6 +152,9 @@ cd $env:USERPROFILE\Desktop
 </td>
 <td style="vertical-align: top; text-align: right; width: 40%;">
   <img src="https://github.com/jorge-nbb/Active-Directory-Bulk-User-Creation/blob/main/images/p2.png" alt="p2" width="999"/>
+<pre>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</pre>
 </td>
   </tr>
 </table>
