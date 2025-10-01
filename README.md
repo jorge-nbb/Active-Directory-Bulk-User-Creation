@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/jorge-nbb/images/raw/main/PowerShell_5.0_icon.png" alt="powershell logo" width="228"/>
+  <img src="https://github.com/jorge-nbb/Active-Directory-Bulk-User-Creation/blob/main/images/PowerShell_5.0_icon.png" alt="powershell logo" width="228"/>
 </p>
 
 <h1 align="center">Active Directory Bulk User Creation</h1>
@@ -17,7 +17,8 @@
 
 - **Windows Server 2022** (Domain Controller)  
 - **Active Directory Domain Services (AD DS)**  
-- **PowerShell 5.1+**  
+- **PowerShell 5.1+**
+- **Notepad or IDE** (to create/edit script)
 
 ---
 
@@ -36,7 +37,7 @@
    
 </td>
 <td style="vertical-align: top; text-align: right; width: 40%;">
-  <img src="https://github.com/jorge-nbb/images-bulk-user/blob/main/p1.png" alt="p1" width="350"/>
+  <img src="https://github.com/jorge-nbb/Active-Directory-Bulk-User-Creation/blob/main/images/p1.png" alt="p1" width="350"/>
 </td>
   </tr>
 </table>
@@ -150,7 +151,7 @@ cd $env:USERPROFILE\Desktop
 
 </td>
 <td style="vertical-align: top; text-align: right; width: 40%;">
-  <img src="https://github.com/jorge-nbb/images-bulk-user/blob/main/p2.png" alt="p2" width="999"/>
+  <img src="https://github.com/jorge-nbb/Active-Directory-Bulk-User-Creation/blob/main/images/p2.png" alt="p2" width="999"/>
 </td>
   </tr>
 </table>
@@ -170,7 +171,7 @@ cd $env:USERPROFILE\Desktop
 
 </td>
 <td style="vertical-align: top; text-align: right; width: 40%;">
-  <img src="https://github.com/jorge-nbb/images-bulk-user/blob/main/p3.png" alt="p3" width="350"/>
+  <img src="https://github.com/jorge-nbb/Active-Directory-Bulk-User-Creation/blob/main/images/p3.png" alt="p3" width="350"/>
 </td>
   </tr>
 </table>
